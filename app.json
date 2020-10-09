@@ -8,8 +8,8 @@
     "3",
     "leecher"
   ],
-  "website": "https://github.com/usleech/botakin",
-  "repository": "https://github.com/usleech/botakin",
+  "website": "https://github.com/ujicobake102/julakutak",
+  "repository": "https://github.com/ujicobake102/julakutak",
   "env": {
     "APP_ID": {
       "description": "get this value from https://my.telegram.org",
